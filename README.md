@@ -21,17 +21,9 @@
 
 -->
 
-<a href="//patricknomad.com?ref=gh"><img src="./assets/header.png" alt="Code, Design/UX, AI"></a>
-
-### Hi, I’m Patrick — I do coding, design/UX and AI.
-
-| Check out one of my hobby projects: [Teation](//teation.com) |
-| :- |
-| It uses AI in an attempt to gain insight from thoughtful conversations (i.e. podcasts). |
+<a href="//teation.com"><img src="./assets/header.png" alt="Patrick Nomad: Code, Design/UX, AI; and Teation Search"></a>
 
 #### You can also find me here:
 
 * Instagram: [patricknomad](//instagram.com/patricknomad)
 * Twitter: [nomad_patrick](//twitter.com/nomad_patrick)
-
-<a href="//teation.com"><img src="./assets/footer.png" alt="Teation Search"></a>
