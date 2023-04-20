@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+
+# ignore built version (used for testing)
+.internal
+README.html

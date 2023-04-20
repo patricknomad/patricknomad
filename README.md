@@ -1,16 +1,37 @@
-Hi, I'm Patrick 👋 
+<!--
 
-I do coding, design/UX and AI. 
+    Hi human!
 
----
+    I admit, I did first start coding when websites were created using <font>,
+    <markee>, and <blink> tags. Layouts were not coded with <div>, flex and
+    grid layouts. They were made with many <table> tags. Slowly these web
+    standards changed. It was great. However emails lacked behind for a
+    long long time. Eventually they starting catching on, but here we
+    are again. Maybe I'm being too creative, maybe I should keep it
+    simple but these README files rendered on GitHub are stripped
+    of style attributes (almost all, github.com/github/markup).
 
-Check out one of my hobby projects: [Teation](https://github.com/patricknomad/teation)
+    I would like to embellish the profile a little bit more,
+    but for the time being, I'll limit the hackery a bit.
+    Going too far would impede on accessibility. This
+    type of hacking also takes lots of time. So for
+    now, I will say: enjoy and have a great day.
 
-It uses AI in an attempt to gain insight from thoughtful conversations (i.e. podcasts).
+    Send a message on Twitter if you want :)
 
----
+-->
 
-You can also find me here:
+<a href="//patricknomad.com?ref=gh"><img src="./assets/header.png" alt="Code, Design/UX, AI"></a>
 
-- Instagram: [@patricknomad](https://instagram.com/patricknomad)
-- Twitter: [@nomad_patrick](https://twitter.com/nomad_patrick)
+### Hi, I’m Patrick — I do coding, design/UX and AI.
+
+| Check out one of my hobby projects: [Teation](//teation.com) |
+| :- |
+| It uses AI in an attempt to gain insight from thoughtful conversations (i.e. podcasts). |
+
+#### You can also find me here:
+
+* Instagram: [patricknomad](//instagram.com/patricknomad)
+* Twitter: [nomad_patrick](//twitter.com/nomad_patrick)
+
+<a href="//teation.com"><img src="./assets/footer.png" alt="Teation Search"></a>
