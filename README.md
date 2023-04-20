@@ -23,7 +23,7 @@
 
 <a href="//teation.com"><img src="./assets/header.png" alt="Patrick Nomad: Code, Design/UX, AI; and Teation Search"></a>
 
-#### You can also find me here:
+### You can also find me here:
 
 * Instagram: [patricknomad](//instagram.com/patricknomad)
 * Twitter: [nomad_patrick](//twitter.com/nomad_patrick)
